@@ -10,6 +10,3 @@ newLine
 onlocal
 onbirlokal
 
-
-
-
