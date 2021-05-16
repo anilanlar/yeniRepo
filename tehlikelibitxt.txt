@@ -1,13 +1,1 @@
-this file has been changed
-1
-2
-3
-4 un sonuna geldiii
-5
-6
-sekizlokal
-newLine
-onlocal
-onbirlokal
-onikison
 
