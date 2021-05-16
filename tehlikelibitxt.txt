@@ -9,4 +9,5 @@ sekizlokal
 newLine
 onlocal
 onbirlokal
+onikison
 
